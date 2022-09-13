@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+FBSnapshotTestCase in Pods, no dependencies
+TestPodKit in Pods, no dependencies
+Pods-TestPodKit_Example in Pods, depends on:
+TestPodKit in Pods (explicit)
+Pods-TestPodKit_Tests in Pods, depends on:
+FBSnapshotTestCase in Pods (explicit)
+Pods-TestPodKit_Example in Pods (explicit)
