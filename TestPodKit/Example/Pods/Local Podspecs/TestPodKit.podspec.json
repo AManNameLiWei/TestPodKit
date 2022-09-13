@@ -1,0 +1,22 @@
+{
+  "name": "TestPodKit",
+  "version": "0.1.0",
+  "summary": "A short description of TestPodKit.",
+  "description": "这是一个用于测试的demo，TestPodKit初次创建，不希望出啥问题",
+  "homepage": "https://github.com/AManNameLiWei/TestPodKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liwei05": "liwei05@kanzhun.com"
+  },
+  "source": {
+    "git": "https://github.com/AManNameLiWei/TestPodKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TestPodKit/Classes/**/*"
+}
